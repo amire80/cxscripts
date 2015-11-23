@@ -9,7 +9,7 @@ Written by Amir E. Aharoni, 2015
 
 License - CC-0.
 
-"When Monday comes I want nothing,
- Come Tuesday morning I want the same,
- The days and nights fly by,
- Looking to embrace the nothing, of the everyday." – Yo La Tengo
+# "When Monday comes I want nothing,
+#  Come Tuesday morning I want the same,
+#  The days and nights fly by,
+#  Looking to embrace the nothing, of the everyday." – Yo La Tengo
